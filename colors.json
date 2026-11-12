@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Classic Blue",
+    "cssValue": "#0F4C81",
+    "textColor": "light"
+  },
+  {
+    "name": "Living Coral",
+    "cssValue": "#FF6F61",
+    "textColor": "dark"
+  },
+  {
+    "name": "Ultra Violet",
+    "cssValue": "#5F4B8B",
+    "textColor": "light"
+  },
+  {
+    "name": "Greenery",
+    "cssValue": "#88B04B",
+    "textColor": "dark"
+  },
+  {
+    "name": "Rose Quartz",
+    "cssValue": "#F7CAC9",
+    "textColor": "dark"
+  },
+  {
+    "name": "Serenity",
+    "cssValue": "#92A8D1",
+    "textColor": "dark"
+  },
+  {
+    "name": "Marsala",
+    "cssValue": "#955251",
+    "textColor": "light"
+  },
+  {
+    "name": "Radiant Orchid",
+    "cssValue": "#B565A7",
+    "textColor": "dark"
+  },
+  {
+    "name": "Emerald",
+    "cssValue": "#009B77",
+    "textColor": "light"
+  },
+  {
+    "name": "Tangerine Tango",
+    "cssValue": "#DD4124",
+    "textColor": "light"
+  },
+  {
+    "name": "Mimosa",
+    "cssValue": "#EFC050",
+    "textColor": "dark"
+  },
+  {
+    "name": "Turquoise",
+    "cssValue": "#45B8AC",
+    "textColor": "dark"
+  },
+  {
+    "name": "Honeysuckle",
+    "cssValue": "#D94F70",
+    "textColor": "light"
+  },
+  {
+    "name": "Blue Iris",
+    "cssValue": "#5A5B9F",
+    "textColor": "light"
+  },
+  {
+    "name": "Chili Pepper",
+    "cssValue": "#9B1B30",
+    "textColor": "light"
+  },
+  {
+    "name": "Sand Dollar",
+    "cssValue": "#DECDBE",
+    "textColor": "dark"
+  },
+  {
+    "name": "Lime Punch",
+    "cssValue": "#C0D725",
+    "textColor": "dark"
+  },
+  {
+    "name": "Amethyst Orchid",
+    "cssValue": "#926AA6",
+    "textColor": "light"
+  },
+  {
+    "name": "Peach Fuzz",
+    "cssValue": "#FFBE98",
+    "textColor": "dark"
+  },
+  {
+    "name": "Mocha Mousse",
+    "cssValue": "#A47864",
+    "textColor": "light"
+  }
+]
